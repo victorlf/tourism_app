@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914203279124",
+    "project_id": "oli-tourism-mobile-app",
+    "storage_bucket": "oli-tourism-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914203279124:android:843323422b083a384a4c01",
+        "android_client_info": {
+          "package_name": "com.example.tourism_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914203279124-31mi7mquqpt2mtthli96lrg94e6akuep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVc3GYvYxS8Xm9LKDHBe8M89i27yXumtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914203279124-31mi7mquqpt2mtthli96lrg94e6akuep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
