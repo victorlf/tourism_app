@@ -8,10 +8,23 @@ The initial screen are done and the app is connected to the firebase to get plac
 
 ## Some Screens
 
-<!-- Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![alt text][place_information]  |  ![alt text][ap]
+Home             |  User Menu            |  User Profile
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://i.ibb.co/dksfsxh/home.png" height="400"> | <img src="https://i.ibb.co/3vwRfDY/user-menu.png" height="400"> |  <img src="https://i.ibb.co/hscdcjM/user-profile.png" height="400">
+Popular Places             |  A Place Overview            |  A Place Information
+<img src="https://i.ibb.co/SB1zPyV/popular-places.png" height="400">|  <img src="https://i.ibb.co/YhJsrhD/place-overview.png" height="400"> | <img src="https://i.ibb.co/KG61zxH/place-information.png" height="400">
+Restaurants            | Restaurant Information
+<img src="https://i.ibb.co/Yf87nMw/restaurants.png" height="400"> | <img src="https://i.ibb.co/brtPhv4/restaurants-information.png" height="400">
 
 
-[place_information]: https://drive.google.com/file/d/1TGS6xCohhfRG28aJmZjZVZDCLTVPNGAK/view?usp=sharing
-[ap]: https://image.freepik.com/vetores-gratis/palavra-de-neon-de-rap-e-microfone-no-contorno-de-chama_1262-11901.jpg -->
+
+
+
+<!-- https://ibb.co/v1hdhGB
+https://ibb.co/PMRDT7z
+https://ibb.co/zSdrc23
+https://ibb.co/SV0XY8G
+https://ibb.co/RcMq9bQ
+https://ibb.co/0r1bwrB
+https://ibb.co/CtBrsKF 
+https://ibb.co/9ympmSM-->
